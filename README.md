@@ -15,32 +15,37 @@ To create the solid model from given drawing and section the solid model
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
+<img width="587" height="1280" alt="WhatsApp Image 2026-11-23 at 5 03 33 PM" src="https://github.com/user-attachments/assets/144b20dd-94bc-42dd-b2ab-063c5dc94261" />
+
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
+<img width="587" height="1280" alt="WhatsApp Image 2026-11-23 at 5 03 33 PM (1)" src="https://github.com/user-attachments/assets/64fe7cb9-38f8-458e-b15f-a95676a5e6c3" />
+
 
 5.	Use inspect feature to measure the dimensions of sketch.
+<img width="1158" height="883" alt="WhatsApp Image 2026-11-23 at 5 03 34 PM" src="https://github.com/user-attachments/assets/c1edf03a-48dc-4c98-b927-4ce825c042b0" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
+<img width="684" height="1279" alt="WhatsApp Image 2026-11-23 at 5 03 34 PM (1)" src="https://github.com/user-attachments/assets/f911df14-03a5-4108-9bc5-2ad32a30c519" />
 
 7.Use extrude option to convert 3D model from sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
+<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/ded321ed-725d-4bc8-830f-f24c67fc2d03" />
+
 
 8.Use revolve option to convert 2D to 3D.
 
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
+<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/39b891f0-8ca4-4915-b41b-d0ad10b2f4db" />
+
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+<img width="1014" height="720" alt="{BD031BE4-0A00-44EC-8424-51FD291C63E0}" src="https://github.com/user-attachments/assets/3277b428-3257-4d25-bc7c-3cfe0b9d1e9b" />
 
 ## RESULT:
 
